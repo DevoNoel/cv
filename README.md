@@ -35,5 +35,5 @@ A brief sampling of some of the technology I've worked with in production:
 + **Frameworks:** `rails`, `sinatra`, `node.js`, `backbone.js`, `.net` 
 + **Testing:** `rspec`, `factory girl`, `mocha`, `chai`, `should.js`, `ginkgo`, `gomega`
 + **Package Managers:** `rubygems`, `npm`, `apm`, `goop`
-+ **Automation:** `travis-ci`, `semaphoreci`, `capistrano`, `chef`, `hubot`
++ **Automation:** `travis-ci`, `semaphoreci`, `capistrano`, `ansible`, `chef`, `hubot`
 
