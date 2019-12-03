@@ -2,7 +2,7 @@
 
 [![Me](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)](http://devonoel.com/)
 
-Software developer and mercenary for hire.
+Software developer and wearer of many hats.
 
 ## Contact
 + **Website:** [devonoel.com](http://devonoel.com/)
@@ -11,29 +11,42 @@ Software developer and mercenary for hire.
 + **Phone:** 647-539-3446
 
 ## Experience
-A sample of some cool projects I've worked on:
+Here's a sample of some cool projects I've worked on in the past, or that I'm working on now:
 
-### 500px
-+ Chatops using [Hubot](https://hubot.github.com/)
-+ Built an [open source node.js task runner](https://github.com/500px/gunter)
-+ Built a golang service for managing user notifications
-+ Built client gems for interacting with internal golang services
-+ Built an internal sinatra ruby api for the 500px mobile apps
+#### Client Work
++ An upcoming web app for [TasteToronto](http://www.tastetoronto.ca/) for finding, sharing, and ranking restaurants, dishes, and events around Toronto
++ An upcoming real estate web app that pulls data from the Toronto Real Estate Board's [RETS](https://en.wikipedia.org/wiki/Real_Estate_Transaction_Standard) servers and connects buyers and sellers to agents
++ An upcoming app that allows parents to award their children points for good behaviour and chores which they can redeem against a catalogue of products
++ The marketing site for [Willful](https://willful.co/), an online will management platform
++ Internal reporting software for a call centre that generates daily reports on call stats and ticket progress
+
+#### Bitmaker Labs/General Assembly Toronto
++ A [command line utility](https://github.com/bitmaker-internal/screencastr) to convert, combine, and brand screencasts built on top of `ffmpeg`
++ A simple [web scrapper](https://github.com/devonoel/dino-scraper) to grab information about dinosaurs from the [London Natural History Museum's website](https://www.nhm.ac.uk/discover/dino-directory.html) and populate a SQL database for an assignment for my students
+
+#### 500px
++ A golang service for managing user notifications
++ A chatops solution using [Hubot](https://hubot.github.com/)
++ An [open source node.js task runner](https://github.com/500px/gunter)
++ Client gems for interacting with internal golang services
++ A middle-tier sinatra ruby api for the 500px mobile apps
 + Managed a large set of automated tests
 + Managed deployment of a web app with millions of users
++ A physical "panic switch" that would switch the website over to maintenance mode when flipped
 
-### BESTECH
-+ Built an internal reporting web app
-+ Built an internal admin web app
-+ Built a PLC simulator
-+ Built localization into several legacy applications
+#### BESTECH
++ Worked on automated ventilation and hoisting software for the mining industry
++ An internal reporting web app
++ An internal admin web app
++ A PLC simulator
++ Added localization into several legacy applications
 
 ## Technology
 A brief sampling of some of the technology I've worked with in production:
 
-+ **Languages:** `ruby`, `golang`, `js/coffee`, `c#`, `vb`
-+ **Frameworks:** `rails`, `sinatra`, `node.js`, `backbone.js`, `.net` 
++ **Languages:** `ruby`, `golang`, `js`, `c#`, `vb`
++ **Backend Frameworks:** `rails`, `sinatra`, `express.js`, `.net`
++ **Frontend Frameworks:** `react`, `vue`, `backbone`
 + **Testing:** `rspec`, `factory girl`, `mocha`, `chai`, `should.js`, `ginkgo`, `gomega`
 + **Package Managers:** `rubygems`, `npm`, `apm`, `goop`
 + **Automation:** `travis-ci`, `semaphoreci`, `capistrano`, `ansible`, `chef`, `hubot`
-
