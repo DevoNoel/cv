@@ -42,11 +42,18 @@ Here's a sample of some cool projects I've worked on in the past, or that I'm wo
 + Added localization into several legacy applications
 
 ## Technology
-A brief sampling of some of the technology I've worked with in production:
+A brief sampling of some of the technology I've worked with professionally:
 
-+ **Languages:** `ruby`, `golang`, `js`, `c#`, `vb`
-+ **Backend Frameworks:** `rails`, `sinatra`, `express.js`, `.net`
++ **Languages:** `ruby`, `js`, `python`, `golang`, `c#`, `vb`
++ **Backend Frameworks:** `rails`, `sinatra`, `express.js`, `django`, `.net`
 + **Frontend Frameworks:** `react`, `vue`, `backbone`
-+ **Testing:** `rspec`, `factory girl`, `mocha`, `chai`, `should.js`, `ginkgo`, `gomega`
-+ **Package Managers:** `rubygems`, `npm`, `apm`, `goop`
++ **Testing:** `rspec`, `rails minitest`, `mocha`, `chai`, `python unittest`, `ginkgo`, `gomega`
++ **Containers:** `docker`, `docker hub`
++ **Package Managers:** `rubygems`, `yarn`, `npm`, `pip`, `apm`, `goop`
 + **Automation:** `travis-ci`, `semaphoreci`, `capistrano`, `ansible`, `chef`, `hubot`
++ **Hosting and Infrastructure:** `aws ec2`, `aws elastic beanstalk`, `aws s3`, `aws rds`, `heroku`, `digital ocean`
+
+And some technology I'm interested in, but haven't yet gotten to work with professionally:
++ **Languages:** `elixir`, `rust`
++ **Backend Frameworks:** `phoenix`
++ **Frontend Frameworks:** `svelte`
