@@ -14,10 +14,10 @@ Software developer and wearer of many hats.
 Here's a sample of some cool projects I've worked on in the past, or that I'm working on now:
 
 #### Client Work
-+ An upcoming web app for [TasteToronto](http://www.tastetoronto.ca/) for finding, sharing, and ranking restaurants, dishes, and events around Toronto
-+ An upcoming real estate web app that pulls data from the Toronto Real Estate Board's [RETS](https://en.wikipedia.org/wiki/Real_Estate_Transaction_Standard) servers and connects buyers and sellers to agents
-+ An upcoming app that allows parents to award their children points for good behaviour and chores which they can redeem against a catalogue of products
++ The sole developer and architect for [TasteToronto](https://www.tastetoronto.com/), a web app for finding, sharing, and ranking restaurants, dishes, recipes and events from around Toronto
 + The marketing site for [Willful](https://willful.co/), an online will management platform
++ An app that allows parents to award their children points for good behaviour and chores which they can redeem against a catalogue of products
++ A real estate web app that pulls data from the Toronto Real Estate Board's [RETS](https://en.wikipedia.org/wiki/Real_Estate_Transaction_Standard) servers and connects buyers and sellers to agents
 + Internal reporting software for a call centre that generates daily reports on call stats and ticket progress
 
 #### Bitmaker Labs/General Assembly Toronto
@@ -39,7 +39,6 @@ Here's a sample of some cool projects I've worked on in the past, or that I'm wo
 + An internal reporting web app
 + An internal admin web app
 + A PLC simulator
-+ Added localization into several legacy applications
 
 ## Technology
 A brief sampling of some of the technology I've worked with professionally:
