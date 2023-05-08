@@ -13,6 +13,12 @@ Software developer and wearer of many hats.
 ## Experience
 Here's a sample of some cool projects I've worked on in the past, or that I'm working on now:
 
+#### Shopify
++ Account management
++ Account deletion through iOS
++ Optimization and analysis surrounding Shopify's enormous scale of accounts
++ A bunch of secret stuff I'm not allowed to talk about
+
 #### Client Work
 + The sole developer and architect for [TasteToronto](https://www.tastetoronto.com/), a web app for finding, sharing, and ranking restaurants, dishes, recipes and events from around Toronto
 + The marketing site for [Willful](https://willful.co/), an online will management platform
@@ -47,10 +53,10 @@ A brief sampling of some of the technology I've worked with professionally:
 + **Backend Frameworks:** `rails`, `sinatra`, `express.js`, `django`, `.net`
 + **Frontend Frameworks:** `react`, `vue`, `backbone`
 + **Testing:** `rspec`, `rails minitest`, `mocha`, `chai`, `python unittest`, `ginkgo`, `gomega`
-+ **Containers:** `docker`, `docker hub`
++ **Containers:** `docker`, `docker hub`, `kubernetes`
 + **Package Managers:** `rubygems`, `yarn`, `npm`, `pip`, `apm`, `goop`
 + **Automation:** `travis-ci`, `semaphoreci`, `capistrano`, `ansible`, `chef`, `hubot`
-+ **Hosting and Infrastructure:** `aws ec2`, `aws elastic beanstalk`, `aws s3`, `aws rds`, `heroku`, `digital ocean`
++ **Hosting and Infrastructure:** `aws ec2`, `aws elastic beanstalk`, `aws s3`, `aws rds`, `google cloud platform`, `heroku`, `digital ocean`
 
 And some technology I'm interested in, but haven't yet gotten to work with professionally:
 + **Languages:** `elixir`, `rust`
